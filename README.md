@@ -1,4 +1,4 @@
-# Acoustic-Feedback-Suppression
+# Acoustic Feedback Suppression(AFC)
 adaptive acoustic feedback cancellation, howling suppression, AI noise reduction, low latency
 
 With the rise of new energy vehicles (NEVs), in-car entertainment systems have become increasingly sophisticated, and vehicle-mounted karaoke systems are now standard in many NEVs. One significant challenge for karaoke systems is acoustic feedback (howling), caused by the close proximity of microphones and car speakers. Traditional feedback suppression algorithms, originally designed for front-rear passenger communication, must now address this issue in karaoke systems. Below is an analysis of key problems to be solved by algorithms in the in-car acoustic environment:
