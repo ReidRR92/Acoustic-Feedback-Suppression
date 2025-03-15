@@ -17,5 +17,5 @@ Vehicle-specific acoustic variations complicate traditional calibration processe
 
 # Algorithm Implementation
 A hybrid approach combining AFC, AGC, and AI noise reduction achieves 15–18 dB of acoustic gain while maintaining high fidelity and low latency. This addresses the challenges of in-car sound reinforcement in complex acoustic environments.
-Demo available for testing
+# Hardware Demo available for testing
 # (微信WeChat: Reid1001).
